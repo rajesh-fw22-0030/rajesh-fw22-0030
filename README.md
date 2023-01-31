@@ -40,8 +40,8 @@
 <br />
 <br />
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-fw22-0030&show_icons=true&locale=en&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=rajesh-fw22-0030&show_icons=true&locale=en)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajesh-fw22-0030&)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=rajesh1028&show_icons=true&locale=en&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rajesh1028&show_icons=true&locale=en)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajesh1028&)
 
 
