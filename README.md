@@ -2,17 +2,18 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Rajesh K</h1>
 <h3 align="center">A passionate backend developer from India</h3>
+<p align="center">Thank You for taking the time to view my GitHub Profile 😄.I am proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-fw22-0030&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-fw22-0030" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **masai**
+- 🔭 I’m looking to collaborate on **Substantial projects**
 
-- 🌱 I’m currently learning **MongoDB, Full Stack Web Development**
+- 🌱 I’m currently learning **Data Structures, Algorithms and MERN stack**
 
-- 💬 Ask me about **MERN, Web Development**
+- 💬 Ask me about **JavaScript, Backend frameworks, Database and Algorithms**
 
 - 📫 How to reach me **rajeshkaruppusamy@gmail.com**
 
