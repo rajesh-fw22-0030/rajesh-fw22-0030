@@ -9,13 +9,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m looking to collaborate on **Substantial projects**
-
 - 🌱 I’m currently learning **Data Structures, Algorithms and MERN stack**
+
+- 🔭 I’m looking to collaborate on **Substantial projects**
 
 - 💬 Ask me about **JavaScript, Backend frameworks, Database and Algorithms**
 
 - 📫 How to reach me **rajeshkaruppusamy@gmail.com**
+
+- 💻 Know more about me <a href="https://rajesh1028.github.io/" target="_blank"  >Portfolio</a>
+
+<br><br>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rajesh1028" alt="prags" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
