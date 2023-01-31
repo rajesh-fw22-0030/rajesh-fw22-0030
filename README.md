@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript, Backend frameworks, Database and Algorithms**
 
-- 📫 How to reach me rajeshkaruppusamy@gmail.com
+- 📫 To reach me on mail **rajeshkaruppusamy@gmail.com**
 
 
 - 💻 Know more about me <a href="https://rajesh1028.github.io/" target="_blank"  >Portfolio</a>
