@@ -21,7 +21,7 @@
 - 💻 Know more about me <a href="https://rajesh1028.github.io/" target="_blank"  >Portfolio</a>
 
 <br><br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rajesh1028" alt="prags" /> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rajesh1028" alt="rajesh" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
